@@ -1,0 +1,5 @@
+---
+foo::bar: 42
+key1: "test env"
+key2: "test env"
+key3: "test env"

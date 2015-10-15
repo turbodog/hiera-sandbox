@@ -1,0 +1,5 @@
+---
+foo::bar: 42
+key1: "agent fqdn"
+key2: "agent fqdn"
+key3: "agent fqdn"

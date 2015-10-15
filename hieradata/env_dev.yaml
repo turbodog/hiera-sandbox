@@ -1,0 +1,5 @@
+---
+foo::bar: 42
+key1: "production env"
+key2: "production env"
+key3: "production env"
